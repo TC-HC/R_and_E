@@ -18,14 +18,14 @@ MonoBehaviour:
   ContactType: 0
   RotationDirection: 1
   HoleSize: 3
-  HoleId: 0
+  HoleId: 1
   IsMoving: 1
   WithoutTeeth: 0
   TeethPoolPrefab: {fileID: 0}
   relatedGearData: {fileID: 0}
-  toothScale: {x: 0.6, y: 0.5, z: 0.5}
-  ToothGap: 45
+  toothScale: {x: 0.5, y: 0.5, z: 0.5}
+  ToothGap: 36
   MinGapLimit: 6
   Equalize: 0
-  TeethCount: 32
-  ToothUnit: 0.784137
+  TeethCount: 40
+  ToothUnit: 0.6276728
