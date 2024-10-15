@@ -1,12 +1,14 @@
 using Chain;
 using System.Collections;
 using System.Collections.Generic;
+using UnityEditor;
 using UnityEngine;
 
 public class ChainModifier : MonoBehaviour
 {
     // Machinery 객체에 대한 참조
     public Machinery machinery;
+    public GameObject Col;
 
     void Start()
     {
@@ -36,6 +38,16 @@ public class ChainModifier : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        Cogwheel[] cogs = machinery.cogHolder.RestoreCogsInEditor();
+        float toothGap = cogs[0].Data.ToothGap;
+        Vector3 thispos = this.transform.position;
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            for (int i = 0; i < toothGap; i++)
+            {
+                Instantiate(Col);
+
+            }
+        }
     }
 }
