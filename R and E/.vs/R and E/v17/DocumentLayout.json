@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|c:\\users\\samsung\\documents\\github\\r_and_e\\r and e\\r_and_e\\r and e\\assets\\chainmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|solutionrelative:assets\\chainmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|c:\\users\\samsung\\documents\\github\\r_and_e\\r and e\\r_and_e\\r and e\\assets\\chaingenerator\\scripts\\cog\\cogholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|solutionrelative:assets\\chaingenerator\\scripts\\cog\\cogholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChainModifier.cs",
+              "DocumentMoniker": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\ChainModifier.cs",
+              "RelativeDocumentMoniker": "Assets\\ChainModifier.cs",
+              "ToolTip": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\ChainModifier.cs",
+              "RelativeToolTip": "Assets\\ChainModifier.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:02:59.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CogHolder.cs",
+              "DocumentMoniker": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Cog\\CogHolder.cs",
+              "RelativeDocumentMoniker": "Assets\\ChainGenerator\\Scripts\\Cog\\CogHolder.cs",
+              "ToolTip": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Cog\\CogHolder.cs",
+              "RelativeToolTip": "Assets\\ChainGenerator\\Scripts\\Cog\\CogHolder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:01:39.613Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
