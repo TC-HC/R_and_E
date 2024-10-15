@@ -1129,7 +1129,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 2, z: 1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1845154865}
@@ -14917,6 +14917,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   machinery: {fileID: 0}
+  Col: {fileID: 4999636913907071240, guid: 45691d8475aad5a4fa058c8cd7a6b896, type: 3}
 --- !u!4 &731134812
 Transform:
   m_ObjectHideFlags: 0
