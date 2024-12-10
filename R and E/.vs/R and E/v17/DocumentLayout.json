@@ -11,8 +11,12 @@
       "RelativeMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|solutionrelative:assets\\chaingenerator\\scripts\\cog\\teethgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\machinery\\machinery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|solutionrelative:assets\\chaingenerator\\scripts\\machinery\\machinery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\cog\\cogwheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|solutionrelative:assets\\chaingenerator\\scripts\\cog\\cogwheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|c:\\users\\samsung\\documents\\github\\r_and_e\\r and e\\r_and_e\\r and e\\assets\\chaingenerator\\scripts\\cog\\cogmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|solutionrelative:assets\\chaingenerator\\scripts\\cog\\cogmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\assets\\scripts\\chainmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,6 +25,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\cog\\cogholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|solutionrelative:assets\\chaingenerator\\scripts\\cog\\cogholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\machinery\\machinery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|solutionrelative:assets\\chaingenerator\\scripts\\machinery\\machinery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Machinery.cs",
               "DocumentMoniker": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Machinery\\Machinery.cs",
               "RelativeDocumentMoniker": "Assets\\ChainGenerator\\Scripts\\Machinery\\Machinery.cs",
@@ -46,6 +54,36 @@
               "IsPinned": true
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CogMover.cs",
+              "DocumentMoniker": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Cog\\CogMover.cs",
+              "RelativeDocumentMoniker": "Assets\\ChainGenerator\\Scripts\\Cog\\CogMover.cs",
+              "ToolTip": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Cog\\CogMover.cs",
+              "RelativeToolTip": "Assets\\ChainGenerator\\Scripts\\Cog\\CogMover.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T06:01:21.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cogwheel.cs",
+              "DocumentMoniker": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Cog\\Cogwheel.cs",
+              "RelativeDocumentMoniker": "Assets\\ChainGenerator\\Scripts\\Cog\\Cogwheel.cs",
+              "ToolTip": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Cog\\Cogwheel.cs",
+              "RelativeToolTip": "Assets\\ChainGenerator\\Scripts\\Cog\\Cogwheel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:29:39.017Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "TeethPool.cs",
@@ -53,22 +91,10 @@
               "RelativeDocumentMoniker": "Assets\\ChainGenerator\\Scripts\\Pool\\TeethPool.cs",
               "ToolTip": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Pool\\TeethPool.cs",
               "RelativeToolTip": "Assets\\ChainGenerator\\Scripts\\Pool\\TeethPool.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAYwC8AAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T05:46:07.414Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ChainModifier.cs",
-              "DocumentMoniker": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\Scripts\\ChainModifier.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ChainModifier.cs",
-              "ToolTip": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\Scripts\\ChainModifier.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ChainModifier.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T05:42:10.174Z"
             },
             {
               "$type": "Document",
@@ -78,19 +104,32 @@
               "RelativeDocumentMoniker": "Assets\\ChainGenerator\\Scripts\\Cog\\TeethGenerator.cs",
               "ToolTip": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Cog\\TeethGenerator.cs",
               "RelativeToolTip": "Assets\\ChainGenerator\\Scripts\\Cog\\TeethGenerator.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAgwFQAAAAmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T06:05:52.193Z"
+              "WhenOpened": "2024-10-22T06:05:52.193Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "ChainModifier.cs",
+              "DocumentMoniker": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\Scripts\\ChainModifier.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChainModifier.cs",
+              "ToolTip": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\Scripts\\ChainModifier.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChainModifier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T05:42:10.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "CogHolder.cs",
               "DocumentMoniker": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Cog\\CogHolder.cs",
               "RelativeDocumentMoniker": "Assets\\ChainGenerator\\Scripts\\Cog\\CogHolder.cs",
               "ToolTip": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Cog\\CogHolder.cs",
               "RelativeToolTip": "Assets\\ChainGenerator\\Scripts\\Cog\\CogHolder.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAABQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswBEAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T06:01:39.613Z"
             }

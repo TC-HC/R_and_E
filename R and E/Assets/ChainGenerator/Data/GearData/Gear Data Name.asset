@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d24f08cdc525e724ca5966a1f7405f6c, type: 3}
-  m_Name: _GearMid
+  m_Name: Gear Data Name
   m_EditorClassIdentifier: 
   Radius: 4
-  Volume: 2
+  Volume: 4
   HoleDepth: 2
   ContactType: 0
   RotationDirection: 1
@@ -27,5 +27,5 @@ MonoBehaviour:
   ToothGap: 45
   MinGapLimit: 6
   Equalize: 0
-  TeethCount: 32
-  ToothUnit: 0.784137
+  TeethCount: 0
+  ToothUnit: 0
