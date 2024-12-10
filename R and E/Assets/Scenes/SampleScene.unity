@@ -39905,18 +39905,6 @@ PrefabInstance:
       value: Shaft
       objectReference: {fileID: 0}
     - target: {fileID: 7391753194317097980, guid: ba10da6ca41a0f4488582df5888c865e, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 7391753194317097980, guid: ba10da6ca41a0f4488582df5888c865e, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 7391753194317097980, guid: ba10da6ca41a0f4488582df5888c865e, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 7391753194317097980, guid: ba10da6ca41a0f4488582df5888c865e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
