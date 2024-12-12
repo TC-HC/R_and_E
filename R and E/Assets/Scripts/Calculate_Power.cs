@@ -38,8 +38,6 @@ public class Calculate_Power : MonoBehaviour
             int size = cogs.Length;
             Cogwheel[] cogs_array = new Cogwheel[size];
 
-            Debug.Log(size);
-
             for(i=0; i < size; i++)
             {
                 cogs_array[i] = cogs[i];
@@ -66,14 +64,6 @@ public class Calculate_Power : MonoBehaviour
                     cogs_array[k] = cogs_array[k - 1];
                 }
                 cogs_array[j] = key_cog;
-            }
-            for(i=0; i < size; i++)
-            {
-                double distance = Vector3.Distance(cogs_array[i].transform.position, shaftPosition);
-                double distance_ = Vector3.Distance(cogs[i].transform.position, shaftPosition);
-                Debug.Log(i);
-                Debug.Log(cogs_array[i]);
-                Debug.Log(distance);
             }
         }
     }
