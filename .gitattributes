@@ -1,0 +1,2 @@
+. filter=lfs diff=lfs merge=lfs -text
+R[[:space:]]and[[:space:]]E filter=lfs diff=lfs merge=lfs -text
