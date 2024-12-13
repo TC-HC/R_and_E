@@ -10,6 +10,7 @@ public class Input_angular_speed : MonoBehaviour
     {
         double angular_speed;
         double.TryParse(Console.ReadLine(), out angular_speed);
+        Debug.Log("w = " +  angular_speed);
     }
 
     // Update is called once per frame
