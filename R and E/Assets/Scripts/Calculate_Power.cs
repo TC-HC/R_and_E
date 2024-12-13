@@ -10,12 +10,11 @@ public class Calculate_Power : MonoBehaviour
     public GameObject prefab;
     GameObject shaft;
 
-    // Start is called before the first frame update
     void Start()
     {
-        prefab = Resources.Load<GameObject>("Prefab/Shaft");
+        prefab = Resources.Load<GameObject>("Prefab/Shaft"); // "Prefab/Shaft" 경로에 있는 게임 오브젝트를 불러오
 
-        if( prefab == null)
+        if ( prefab == null )
         {
             Debug.LogError("Shaft를 찾을 수 없습니다. Shaft가 존재하는지 다시 한번 확인해주십시오.");
             return;
@@ -36,7 +35,7 @@ public class Calculate_Power : MonoBehaviour
             // 기어 목록을 가져오기
             Cogwheel[] cogs = machinery.cogHolder.RestoreCogsInEditor();
             int size = cogs.Length;
-            Cogwheel[] cogs_array = new Cogwheel[size];
+            Cogwheel[] cogs_array = new Cogwheel[size]; // size : 기어의 데이터를 저장하는 배열의 길이
 
             for(i=0; i < size; i++)
             {
