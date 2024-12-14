@@ -10,7 +10,7 @@ public class Calculate_Power : MonoBehaviour
     public GameObject prefab;
     GameObject shaft;
 
-    void Start()
+    void Awake()
     {
         prefab = Resources.Load<GameObject>("Prefab/Shaft"); // "Prefab/Shaft" 경로에 있는 게임 오브젝트를 불러옴
 
@@ -66,10 +66,7 @@ public class Calculate_Power : MonoBehaviour
                 cogs_array[j] = key_cog;
             }
             cogs_array[0].angular_speed = Input_angular_speed.mortor_angular_speed;
-            for(i = 1; i<size; i++)
-            {
-                cogs_array[i].angular_speed = 0;
-            }
+            Debug.Log(cogs_array[0].angular_speed);
         }
     }
 }
