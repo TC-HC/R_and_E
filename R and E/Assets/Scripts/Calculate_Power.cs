@@ -12,20 +12,11 @@ public class Calculate_Power : MonoBehaviour
     public GameObject prefab;
     GameObject shaft;
 
-    public static Cogwheel[] cogs_array { get; private set; } 
+    public static Cogwheel[] cogs_array;
     public static int size;
 
     public void Calculate_cogs()
     {
-        prefab = Resources.Load<GameObject>("Prefab/Shaft"); // "Prefab/Shaft" 경로에 있는 게임 오브젝트를 불러옴
-
-        if ( prefab == null )
-        {
-            Debug.LogError("Shaft를 찾을 수 없습니다. Shaft가 존재하는지 다시 한번 확인해주십시오.");
-            return;
-        }
-
-        shaft = Instantiate(prefab);
 
         // Machinery 객체를 찾는 방법 (예시로 태그를 통해 찾음)
         if (machinery == null)
@@ -40,7 +31,7 @@ public class Calculate_Power : MonoBehaviour
             // 기어 목록을 가져오기
             Cogwheel[] cogs = machinery.cogHolder.RestoreCogsInEditor();
             size = cogs.Length;
-            Cogwheel[] cogs_array = new Cogwheel[size]; // size : 기어의 데이터를 저장하는 배열의 길이
+            cogs_array = new Cogwheel[size]; // size : 기어의 데이터를 저장하는 배열의 길이
 
             for(i=0; i < size; i++)
             {
@@ -70,25 +61,35 @@ public class Calculate_Power : MonoBehaviour
                 }
                 cogs_array[j] = key_cog;
             }
-            cogs_array[0].angular_speed = Input_angular_speed.motor_angular_speed;
-            Debug.Log(cogs_array[0].Data.Radius);
         }
     }
 
     double Calculate_power(Cogwheel[] cogs_array, int n, int size)
     {
-        if (n != 0)
+        if (n == size - 1)
+        {
+            return cogs_array[size - 1].angular_speed = Input_angular_speed.motor_angular_speed;
+        }
+        else if (n != 0)
         {
             return cogs_array[n].power = (cogs_array[n - 1].Data.TeethCount * cogs_array[n - 1].Data.Radius / 8) * cogs_array[size - 1].Data.Radius * Mathf.Pow((float)cogs_array[size - 1].angular_speed, 3) + Calculate_power(cogs_array, n - 1, size);
         }
         else
         {
-            return 0;   //대충 0번째 기어에 작용하는 동력, 사용자가 입력할 수 있게 만들어야 함.(inputfield 만든게 있으니 그거 이용하면 될 듯)
+            return Input_extra_power.extra_power;   //0번째 기어에 작용하는 외부 동력, 사용자가 입력할 수 있게 만들어야 함.(inputfield 만든게 있으니 그거 이용하면 될 듯)
         }
     }
 
     void Awake()
     {
+        prefab = Resources.Load<GameObject>("Prefab/Shaft"); // "Prefab/Shaft" 경로에 있는 게임 오브젝트를 불러옴
+
+        if (prefab == null)
+        {
+            Debug.LogError("Shaft를 찾을 수 없습니다. Shaft가 존재하는지 다시 한번 확인해주십시오.");
+            return;
+        }
+        shaft = Instantiate(prefab);
         Calculate_cogs();
     }
 }

@@ -23,18 +23,18 @@ public class Input_angular_speed : MonoBehaviour
         {
             Debug.Log("모터 각속도 : " + (double)motor_angular_speed);
             calculate_Power.Calculate_cogs();
-            Cogwheel[] Cogs_array = Calculate_Power.cogs_array;
-            Cogs_array[Cogs_array.Length - 1].angular_speed = motor_angular_speed;
-            Cogs_array[0].angular_speed = (Cogs_array[Cogs_array.Length - 1].Data.Radius / Cogs_array[0].Data.Radius) * Cogs_array[Cogs_array.Length - 1].angular_speed;
-            for (int i = Cogs_array.Length - 1; i >= 0; i--)
+            int size = Calculate_Power.cogs_array.Length;
+            Calculate_Power.cogs_array[size - 1].angular_speed = motor_angular_speed;
+            Calculate_Power.cogs_array[0].angular_speed = (Calculate_Power.cogs_array[size - 1].Data.Radius / Calculate_Power.cogs_array[0].Data.Radius) * Calculate_Power.cogs_array[size - 1].angular_speed;
+            for (int i = size - 2; i > 0; i--)
             {
-                Cogs_array[i].angular_speed = (Cogs_array[i].Data.Radius / Cogs_array[0].Data.Radius) * Cogs_array[0].angular_speed;
+                Calculate_Power.cogs_array[i].angular_speed = (Calculate_Power.cogs_array[0].Data.Radius / Calculate_Power.cogs_array[i].Data.Radius) * Calculate_Power.cogs_array[0].angular_speed;
             }
-            int j = Cogs_array.Length - 1;
-            while (j > 0){
+            int j = size - 1;
+            while (j >= 0){
                 
-                Debug.Log("Radius = " + Cogs_array[j].Data.Radius);
-                Debug.Log("Angular speed = " + Cogs_array[j].angular_speed);
+                Debug.Log("Radius = " + Calculate_Power.cogs_array[j].Data.Radius);
+                Debug.Log("Angular speed = " + Calculate_Power.cogs_array[j].angular_speed);
                 j--;
             }
         }
