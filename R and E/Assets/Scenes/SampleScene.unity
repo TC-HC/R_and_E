@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028352, g: 0.22571376, b: 0.30692244, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028334, g: 0.22571328, b: 0.3069217, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -57792,12 +57792,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Data: {fileID: 11400000, guid: aeb550c1d3262fc499f237bd0b5f9863, type: 2}
-  drawGizmos: 1
+  drawGizmos: 0
   cogObject: {fileID: 877571524}
   hole: {fileID: 1779879867}
   holeHolder: {fileID: 574804197}
   sortingOrder: 0
   angular_speed: 0
+  power: 0
   teeth:
   - {fileID: 2055020715}
   - {fileID: 371951950}
@@ -61327,12 +61328,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Data: {fileID: 11400000, guid: aeb550c1d3262fc499f237bd0b5f9863, type: 2}
-  drawGizmos: 0
+  drawGizmos: 1
   cogObject: {fileID: 895740199}
   hole: {fileID: 1204019537}
   holeHolder: {fileID: 488086861}
   sortingOrder: 0
   angular_speed: 0
+  power: 0
   teeth:
   - {fileID: 132334003}
   - {fileID: 791962130}
@@ -79229,7 +79231,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 638a5625ebb69c84ebc930a2e2860901, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  machinery: {fileID: 0}
+  machinery: {fileID: 6429585981474385912}
   prefab: {fileID: 0}
 --- !u!4 &2111541484
 Transform:
