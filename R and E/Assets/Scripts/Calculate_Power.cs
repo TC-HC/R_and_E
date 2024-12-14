@@ -12,7 +12,7 @@ public class Calculate_Power : MonoBehaviour
 
     void Start()
     {
-        prefab = Resources.Load<GameObject>("Prefab/Shaft"); // "Prefab/Shaft" 경로에 있는 게임 오브젝트를 불러오
+        prefab = Resources.Load<GameObject>("Prefab/Shaft"); // "Prefab/Shaft" 경로에 있는 게임 오브젝트를 불러옴
 
         if ( prefab == null )
         {
@@ -44,6 +44,7 @@ public class Calculate_Power : MonoBehaviour
 
             Vector3 shaftPosition = shaft.transform.position;
 
+            //삽입 정렬 방식으로 shaft에서 떨어진 거리가 먼 순으로 기어 정렬
             for (i=1 ; i < size; i++)
             {
                 Vector3 cogPosition = cogs_array[i].transform.position;
@@ -63,6 +64,11 @@ public class Calculate_Power : MonoBehaviour
                     cogs_array[k] = cogs_array[k - 1];
                 }
                 cogs_array[j] = key_cog;
+            }
+            cogs_array[0].angular_speed = Input_angular_speed.mortor_angular_speed;
+            for(i = 1; i<size; i++)
+            {
+                cogs_array[i].angular_speed = 0;
             }
         }
     }

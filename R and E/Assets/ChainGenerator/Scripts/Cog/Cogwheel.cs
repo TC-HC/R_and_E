@@ -14,6 +14,7 @@ namespace Chain
         public Hole hole;
         public HoleHolder holeHolder;
         public int sortingOrder = 0;
+        public double angular_speed;
 
 
         [SerializeField] List<Tooth> teeth = new();
