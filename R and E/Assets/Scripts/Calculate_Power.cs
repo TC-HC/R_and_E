@@ -17,9 +17,10 @@ public class Calculate_Power : MonoBehaviour
 
         Sort_Cogs.cogs_array[0].power = Input_extra_power.extra_power;
 
-        for(i = 1; i<size; i++)
+        for(i = 1; i < size; i++)
         {
             Sort_Cogs.cogs_array[i].power = (Sort_Cogs.cogs_array[i - 1].Data.TeethCount * Sort_Cogs.cogs_array[i - 1].Data.Radius / 8) * Sort_Cogs.cogs_array[i].Data.Radius * Mathf.Pow((float)Sort_Cogs.cogs_array[i].angular_speed, 3) + Sort_Cogs.cogs_array[i - 1].power;
         }
     }
+
 }

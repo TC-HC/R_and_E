@@ -120035,8 +120035,10 @@ GameObject:
   - component: {fileID: 2111541487}
   - component: {fileID: 2111541489}
   - component: {fileID: 2111541490}
+  - component: {fileID: 2111541491}
+  - component: {fileID: 2111541492}
   m_Layer: 0
-  m_Name: Calculate_Power
+  m_Name: Gear_Manager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -120147,6 +120149,35 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   machinery: {fileID: 0}
   prefab: {fileID: 0}
+--- !u!114 &2111541491
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2111541482}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e6a99f6c8e2d894d9123966bb052464, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Date: {fileID: 0}
+  is_broken: 0
+  broken_gear_index: 0
+  max_stress: 0
+--- !u!114 &2111541492
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2111541482}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 153f0c47fbf3bb841b558886867e323f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Data: {fileID: 0}
 --- !u!1 &2114053186
 GameObject:
   m_ObjectHideFlags: 0

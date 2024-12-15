@@ -11,7 +11,6 @@ public class Input_Depth : MonoBehaviour
     {
         Calculate_Area calculate_Area = FindObjectOfType<Calculate_Area>();
         double.TryParse(str, out Depth);
-        Debug.Log(Depth);
         calculate_Area.Calculate_area();
     }
 }

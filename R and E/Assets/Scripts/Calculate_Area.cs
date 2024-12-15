@@ -20,7 +20,6 @@ public class Calculate_Area : MonoBehaviour
             z = 2.25 * module;
             R = 4.507 * module;
             Sort_Cogs.cogs_array[i].area = R * theta * depth;
-            Debug.Log(Sort_Cogs.cogs_array[i].area);
         }
     }
 }
