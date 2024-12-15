@@ -16,6 +16,8 @@ namespace Chain
         public int sortingOrder = 0;
         public double angular_speed;
         public double power;
+        public double area;
+        public double force;
 
 
         [SerializeField] List<Tooth> teeth = new();
