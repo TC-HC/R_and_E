@@ -22,10 +22,10 @@ public class Input_angular_speed : MonoBehaviour
         {
             int size = Sort_Cogs.size;
             Sort_Cogs.cogs_array[size - 1].angular_speed = motor_angular_speed;
-            Sort_Cogs.cogs_array[0].angular_speed = (Sort_Cogs.cogs_array[size - 1].Data.Radius / Sort_Cogs.cogs_array[0].Data.Radius) * Sort_Cogs.cogs_array[size - 1].angular_speed;
-            for (int i = size - 2; i > 0; i--)
+            for (int i = 0; i < size - 1; i++)
             {
-                Sort_Cogs.cogs_array[i].angular_speed = (Sort_Cogs.cogs_array[0].Data.Radius / Sort_Cogs.cogs_array[i].Data.Radius) * Sort_Cogs.cogs_array[0].angular_speed;
+                Sort_Cogs.cogs_array[i].angular_speed = (Sort_Cogs.cogs_array[size-1].Data.Radius / Sort_Cogs.cogs_array[i].Data.Radius) * Sort_Cogs.cogs_array[size-1].angular_speed;
+                Debug.Log(i + "번째 기어의 각속도 : " + Sort_Cogs.cogs_array[i].angular_speed);
             }
         }
     }
