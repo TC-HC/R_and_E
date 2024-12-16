@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\scripts\\calculate_stress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\scripts\\input_angular_speed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\input_angular_speed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\scripts\\calculate_power.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\calculate_power.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|c:\\users\\\uC740\uD638\\onedrive\\\uBB38\uC11C\\github\\r_and_e\\r and e\\assets\\scripts\\calculate_stress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\calculate_stress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|c:\\users\\\uC740\uD638\\onedrive\\\uBB38\uC11C\\github\\r_and_e\\r and e\\assets\\scripts\\is_broken_gear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\scripts\\is_broken_gear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\is_broken_gear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -29,14 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\datamodels\\geardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|solutionrelative:assets\\chaingenerator\\scripts\\datamodels\\geardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\scripts\\calculate_power.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\calculate_power.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\scripts\\input_angular_speed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\input_angular_speed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\scripts\\input_max_stress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -83,31 +83,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Is_Broken_Gear.cs",
-              "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Is_Broken_Gear.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Is_Broken_Gear.cs",
-              "ToolTip": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Is_Broken_Gear.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Is_Broken_Gear.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T07:16:23.551Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Calculate_Power.cs",
               "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Calculate_Power.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Calculate_Power.cs",
               "ToolTip": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Calculate_Power.cs",
               "RelativeToolTip": "Assets\\Scripts\\Calculate_Power.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswBUAAAAPAQAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T06:47:36.883Z"
+              "WhenOpened": "2024-12-10T06:47:36.883Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Input_Depth.cs",
               "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Input_Depth.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Input_Depth.cs",
@@ -119,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Cogwheel.cs",
               "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Cog\\Cogwheel.cs",
               "RelativeDocumentMoniker": "Assets\\ChainGenerator\\Scripts\\Cog\\Cogwheel.cs",
@@ -127,12 +115,11 @@
               "RelativeToolTip": "Assets\\ChainGenerator\\Scripts\\Cog\\Cogwheel.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T07:54:32.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T07:54:32.619Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "GearData.cs",
               "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\DataModels\\GearData.cs",
               "RelativeDocumentMoniker": "Assets\\ChainGenerator\\Scripts\\DataModels\\GearData.cs",
@@ -144,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Calculate_Area.cs",
               "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Calculate_Area.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Calculate_Area.cs",
@@ -156,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "CogMover.cs",
               "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Cog\\CogMover.cs",
               "RelativeDocumentMoniker": "Assets\\ChainGenerator\\Scripts\\Cog\\CogMover.cs",
@@ -168,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Calculate_Stress.cs",
               "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Calculate_Stress.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Calculate_Stress.cs",
@@ -181,15 +168,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "Input_angular_speed.cs",
               "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Input_angular_speed.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Input_angular_speed.cs",
               "ToolTip": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Input_angular_speed.cs",
               "RelativeToolTip": "Assets\\Scripts\\Input_angular_speed.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA8wBUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowBsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T08:33:12.912Z"
+              "WhenOpened": "2024-12-12T08:33:12.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Is_Broken_Gear.cs",
+              "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Is_Broken_Gear.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Is_Broken_Gear.cs",
+              "ToolTip": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Is_Broken_Gear.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Is_Broken_Gear.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T07:16:23.551Z"
             },
             {
               "$type": "Document",

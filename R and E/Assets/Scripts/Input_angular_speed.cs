@@ -25,7 +25,6 @@ public class Input_angular_speed : MonoBehaviour
             for (int i = 0; i < size - 1; i++)
             {
                 Sort_Cogs.cogs_array[i].angular_speed = (Sort_Cogs.cogs_array[size-1].Data.Radius / Sort_Cogs.cogs_array[i].Data.Radius) * Sort_Cogs.cogs_array[size-1].angular_speed;
-                Debug.Log(i + "번째 기어의 각속도 : " + Sort_Cogs.cogs_array[i].angular_speed);
             }
         }
     }
