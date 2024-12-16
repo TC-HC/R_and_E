@@ -22,6 +22,7 @@ public class Is_Broken_Gear : MonoBehaviour
             if(max_stress <= Sort_Cogs.cogs_array[i].stress)
             {
                 Debug.Log(Sort_Cogs.cogs_array[i] + " is broken!");
+
             }
         }
     }

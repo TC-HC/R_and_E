@@ -1,73 +1,73 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\",
+  "WorkspaceRootPath": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|c:\\users\\samsung\\documents\\github\\r_and_e\\r and e\\r_and_e\\r and e\\assets\\scripts\\is_broken_gear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\is_broken_gear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\assets\\scripts\\input_depth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\input_depth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\cog\\cogmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\cog\\cogmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|solutionrelative:assets\\chaingenerator\\scripts\\cog\\cogmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\assets\\scripts\\calculate_area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|c:\\users\\\uC740\uD638\\onedrive\\\uBB38\uC11C\\github\\r_and_e\\r and e\\assets\\scripts\\is_broken_gear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\is_broken_gear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\scripts\\input_depth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\input_depth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\scripts\\calculate_area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\calculate_area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\datamodels\\geardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\datamodels\\geardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|solutionrelative:assets\\chaingenerator\\scripts\\datamodels\\geardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\cog\\cogwheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\cog\\cogwheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|solutionrelative:assets\\chaingenerator\\scripts\\cog\\cogwheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\assets\\scripts\\calculate_power.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\scripts\\calculate_power.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\calculate_power.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\assets\\scripts\\input_angular_speed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\scripts\\input_angular_speed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\input_angular_speed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\assets\\scripts\\calculate_stress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\scripts\\calculate_stress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\calculate_stress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\assets\\scripts\\input_max_stress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\scripts\\input_max_stress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\input_max_stress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\assets\\scripts\\sort_cogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\scripts\\sort_cogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sort_cogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\cog\\teethgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\cog\\teethgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|solutionrelative:assets\\chaingenerator\\scripts\\cog\\teethgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\assets\\scripts\\chainmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\scripts\\chainmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chainmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\cog\\cogholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\cog\\cogholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|solutionrelative:assets\\chaingenerator\\scripts\\cog\\cogholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\assets\\scripts\\input_extra_power.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\scripts\\input_extra_power.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\input_extra_power.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\ingame\\interactablegear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\ingame\\interactablegear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|solutionrelative:assets\\chaingenerator\\scripts\\ingame\\interactablegear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\machinery\\machinery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\machinery\\machinery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|solutionrelative:assets\\chaingenerator\\scripts\\machinery\\machinery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -78,21 +78,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Is_Broken_Gear.cs",
-              "DocumentMoniker": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\Scripts\\Is_Broken_Gear.cs",
+              "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Is_Broken_Gear.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Is_Broken_Gear.cs",
-              "ToolTip": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\Scripts\\Is_Broken_Gear.cs",
+              "ToolTip": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Is_Broken_Gear.cs",
               "RelativeToolTip": "Assets\\Scripts\\Is_Broken_Gear.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwUAAAArAAAA",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-15T07:16:23.551Z",
               "EditorCaption": ""
@@ -101,9 +97,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Input_angular_speed.cs",
-              "DocumentMoniker": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\Scripts\\Input_angular_speed.cs",
+              "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Input_angular_speed.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Input_angular_speed.cs",
-              "ToolTip": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\Scripts\\Input_angular_speed.cs",
+              "ToolTip": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Input_angular_speed.cs",
               "RelativeToolTip": "Assets\\Scripts\\Input_angular_speed.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAA8wBUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -113,9 +109,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Calculate_Power.cs",
-              "DocumentMoniker": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\Scripts\\Calculate_Power.cs",
+              "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Calculate_Power.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Calculate_Power.cs",
-              "ToolTip": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\Scripts\\Calculate_Power.cs",
+              "ToolTip": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Calculate_Power.cs",
               "RelativeToolTip": "Assets\\Scripts\\Calculate_Power.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAswBUAAAAPAQAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -123,11 +119,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Input_Depth.cs",
-              "DocumentMoniker": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\Scripts\\Input_Depth.cs",
+              "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Input_Depth.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Input_Depth.cs",
-              "ToolTip": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\Scripts\\Input_Depth.cs",
+              "ToolTip": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Input_Depth.cs",
               "RelativeToolTip": "Assets\\Scripts\\Input_Depth.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -137,9 +133,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Cogwheel.cs",
-              "DocumentMoniker": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Cog\\Cogwheel.cs",
+              "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Cog\\Cogwheel.cs",
               "RelativeDocumentMoniker": "Assets\\ChainGenerator\\Scripts\\Cog\\Cogwheel.cs",
-              "ToolTip": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Cog\\Cogwheel.cs",
+              "ToolTip": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Cog\\Cogwheel.cs",
               "RelativeToolTip": "Assets\\ChainGenerator\\Scripts\\Cog\\Cogwheel.cs",
               "ViewState": "AgIAADkAAAAAAAAAAAAowBIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -149,9 +145,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "GearData.cs",
-              "DocumentMoniker": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\DataModels\\GearData.cs",
+              "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\DataModels\\GearData.cs",
               "RelativeDocumentMoniker": "Assets\\ChainGenerator\\Scripts\\DataModels\\GearData.cs",
-              "ToolTip": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\DataModels\\GearData.cs",
+              "ToolTip": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\DataModels\\GearData.cs",
               "RelativeToolTip": "Assets\\ChainGenerator\\Scripts\\DataModels\\GearData.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwB0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -161,9 +157,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Calculate_Area.cs",
-              "DocumentMoniker": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\Scripts\\Calculate_Area.cs",
+              "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Calculate_Area.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Calculate_Area.cs",
-              "ToolTip": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\Scripts\\Calculate_Area.cs",
+              "ToolTip": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Calculate_Area.cs",
               "RelativeToolTip": "Assets\\Scripts\\Calculate_Area.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAgwBUAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -171,23 +167,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CogMover.cs",
-              "DocumentMoniker": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Cog\\CogMover.cs",
+              "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Cog\\CogMover.cs",
               "RelativeDocumentMoniker": "Assets\\ChainGenerator\\Scripts\\Cog\\CogMover.cs",
-              "ToolTip": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Cog\\CogMover.cs",
+              "ToolTip": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Cog\\CogMover.cs",
               "RelativeToolTip": "Assets\\ChainGenerator\\Scripts\\Cog\\CogMover.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswCEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T08:24:05.207Z"
+              "WhenOpened": "2024-12-12T08:24:05.207Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Calculate_Stress.cs",
-              "DocumentMoniker": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\Scripts\\Calculate_Stress.cs",
+              "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Calculate_Stress.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Calculate_Stress.cs",
-              "ToolTip": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\Scripts\\Calculate_Stress.cs",
+              "ToolTip": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Calculate_Stress.cs",
               "RelativeToolTip": "Assets\\Scripts\\Calculate_Stress.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -197,9 +194,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Sort_Cogs.cs",
-              "DocumentMoniker": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\Scripts\\Sort_Cogs.cs",
+              "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Sort_Cogs.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Sort_Cogs.cs",
-              "ToolTip": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\Scripts\\Sort_Cogs.cs",
+              "ToolTip": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Sort_Cogs.cs",
               "RelativeToolTip": "Assets\\Scripts\\Sort_Cogs.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAD0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -209,9 +206,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Input_Max_stress.cs",
-              "DocumentMoniker": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\Scripts\\Input_Max_stress.cs",
+              "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Input_Max_stress.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Input_Max_stress.cs",
-              "ToolTip": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\Scripts\\Input_Max_stress.cs",
+              "ToolTip": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Input_Max_stress.cs",
               "RelativeToolTip": "Assets\\Scripts\\Input_Max_stress.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -221,9 +218,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "TeethGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Cog\\TeethGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Cog\\TeethGenerator.cs",
               "RelativeDocumentMoniker": "Assets\\ChainGenerator\\Scripts\\Cog\\TeethGenerator.cs",
-              "ToolTip": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Cog\\TeethGenerator.cs",
+              "ToolTip": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Cog\\TeethGenerator.cs",
               "RelativeToolTip": "Assets\\ChainGenerator\\Scripts\\Cog\\TeethGenerator.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAiwDkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -233,9 +230,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "ChainModifier.cs",
-              "DocumentMoniker": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\Scripts\\ChainModifier.cs",
+              "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\ChainModifier.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ChainModifier.cs",
-              "ToolTip": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\Scripts\\ChainModifier.cs",
+              "ToolTip": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\ChainModifier.cs",
               "RelativeToolTip": "Assets\\Scripts\\ChainModifier.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -245,9 +242,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "CogHolder.cs",
-              "DocumentMoniker": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Cog\\CogHolder.cs",
+              "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Cog\\CogHolder.cs",
               "RelativeDocumentMoniker": "Assets\\ChainGenerator\\Scripts\\Cog\\CogHolder.cs",
-              "ToolTip": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Cog\\CogHolder.cs",
+              "ToolTip": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Cog\\CogHolder.cs",
               "RelativeToolTip": "Assets\\ChainGenerator\\Scripts\\Cog\\CogHolder.cs",
               "ViewState": "AgIAAGYAAAAAAAAAAAAkwHYAAABmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -257,9 +254,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Input_extra_power.cs",
-              "DocumentMoniker": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\Scripts\\Input_extra_power.cs",
+              "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Input_extra_power.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Input_extra_power.cs",
-              "ToolTip": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\Scripts\\Input_extra_power.cs",
+              "ToolTip": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Input_extra_power.cs",
               "RelativeToolTip": "Assets\\Scripts\\Input_extra_power.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -269,9 +266,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "Machinery.cs",
-              "DocumentMoniker": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Machinery\\Machinery.cs",
+              "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Machinery\\Machinery.cs",
               "RelativeDocumentMoniker": "Assets\\ChainGenerator\\Scripts\\Machinery\\Machinery.cs",
-              "ToolTip": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Machinery\\Machinery.cs",
+              "ToolTip": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Machinery\\Machinery.cs",
               "RelativeToolTip": "Assets\\ChainGenerator\\Scripts\\Machinery\\Machinery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -281,9 +278,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "InteractableGear.cs",
-              "DocumentMoniker": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\InGame\\InteractableGear.cs",
+              "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\InGame\\InteractableGear.cs",
               "RelativeDocumentMoniker": "Assets\\ChainGenerator\\Scripts\\InGame\\InteractableGear.cs",
-              "ToolTip": "C:\\Users\\samsung\\Documents\\GitHub\\R_and_E\\R and E\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\InGame\\InteractableGear.cs",
+              "ToolTip": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\InGame\\InteractableGear.cs",
               "RelativeToolTip": "Assets\\ChainGenerator\\Scripts\\InGame\\InteractableGear.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
