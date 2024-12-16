@@ -18,7 +18,7 @@ public class Calculate_Stress : MonoBehaviour
         int size = Sort_Cogs.cogs_array.Length;
         for(i = 0; i < size; i++)
         {
-            Sort_Cogs.cogs_array[i].force = Mathf.Sqrt(2) / (Sort_Cogs.cogs_array[i].Data.Radius * Sort_Cogs.cogs_array[i].angular_speed) * Sort_Cogs.cogs_array[i].power/(2 * Sort_Cogs.cogs_array[i].area) * 3;
+            Sort_Cogs.cogs_array[i].stress = Mathf.Sqrt(2) / (Sort_Cogs.cogs_array[i].Data.Radius * Sort_Cogs.cogs_array[i].angular_speed) * Sort_Cogs.cogs_array[i].power/(2 * Sort_Cogs.cogs_array[i].area) * 3;
         }
     }
 }

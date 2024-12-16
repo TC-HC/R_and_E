@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028331, g: 0.2257133, b: 0.3069217, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028352, g: 0.22571376, b: 0.30692244, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -14791,7 +14791,7 @@ GameObject:
   - component: {fileID: 259093158}
   - component: {fileID: 259093157}
   m_Layer: 5
-  m_Name: InputField (TMP)
+  m_Name: InputField_Max_stress
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -24860,7 +24860,7 @@ GameObject:
   - component: {fileID: 413977306}
   - component: {fileID: 413977305}
   m_Layer: 5
-  m_Name: InputField (TMP)
+  m_Name: InputField_Depth
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -75606,7 +75606,7 @@ GameObject:
   - component: {fileID: 1327314710}
   - component: {fileID: 1327314709}
   m_Layer: 5
-  m_Name: InputField (TMP)
+  m_Name: InputField _angular_speed
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -79334,7 +79334,7 @@ GameObject:
   - component: {fileID: 1392916809}
   - component: {fileID: 1392916808}
   m_Layer: 5
-  m_Name: InputField (TMP)
+  m_Name: InputField_extra_power
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -79422,9 +79422,9 @@ MonoBehaviour:
   m_OnEndEdit:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: Input_angular_speed, Assembly-CSharp
-        m_MethodName: 
+      - m_Target: {fileID: 2111541486}
+        m_TargetAssemblyTypeName: Input_extra_power, Assembly-CSharp
+        m_MethodName: OnEndEditEvent
         m_Mode: 0
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

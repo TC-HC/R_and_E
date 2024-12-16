@@ -17,7 +17,7 @@ namespace Chain
         public double angular_speed;
         public double power;
         public double area;
-        public double force;
+        public double stress;
 
 
         [SerializeField] List<Tooth> teeth = new();

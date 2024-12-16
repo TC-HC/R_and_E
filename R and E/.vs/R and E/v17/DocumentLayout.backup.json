@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\scripts\\calculate_force.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\calculate_force.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\scripts\\is_broken_gear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\is_broken_gear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\scripts\\input_depth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\input_depth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\cog\\cogmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|solutionrelative:assets\\chaingenerator\\scripts\\cog\\cogmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\scripts\\calculate_area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\calculate_area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\scripts\\input_depth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\input_depth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\datamodels\\geardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|solutionrelative:assets\\chaingenerator\\scripts\\datamodels\\geardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\cog\\cogwheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,19 +31,15 @@
       "RelativeMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\calculate_power.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|c:\\users\\\uC740\uD638\\onedrive\\\uBB38\uC11C\\github\\r_and_e\\r and e\\assets\\scripts\\is_broken_gear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\is_broken_gear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\scripts\\input_angular_speed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\input_angular_speed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\datamodels\\geardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|solutionrelative:assets\\chaingenerator\\scripts\\datamodels\\geardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|c:\\users\\\uC740\uD638\\onedrive\\\uBB38\uC11C\\github\\r_and_e\\r and e\\assets\\scripts\\calculate_stress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\calculate_stress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|c:\\users\\\uC740\uD638\\onedrive\\\uBB38\uC11C\\github\\r_and_e\\r and e\\assets\\scripts\\input_max_stress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\scripts\\input_max_stress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\input_max_stress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -45,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\cog\\teethgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|solutionrelative:assets\\chaingenerator\\scripts\\cog\\teethgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\cog\\cogmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|solutionrelative:assets\\chaingenerator\\scripts\\cog\\cogmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{43F23D80-D508-93D7-04E7-53F7980C5C0B}|Assembly-CSharp.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\scripts\\chainmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,63 +78,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Is_Broken_Gear.cs",
               "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Is_Broken_Gear.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Is_Broken_Gear.cs",
               "ToolTip": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Is_Broken_Gear.cs",
               "RelativeToolTip": "Assets\\Scripts\\Is_Broken_Gear.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBEAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-15T07:16:23.551Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Calculate_Force.cs",
-              "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Calculate_Force.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Calculate_Force.cs",
-              "ToolTip": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Calculate_Force.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Calculate_Force.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBcAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T06:18:33.851Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Input_angular_speed.cs",
               "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Input_angular_speed.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Input_angular_speed.cs",
               "ToolTip": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Input_angular_speed.cs",
               "RelativeToolTip": "Assets\\Scripts\\Input_angular_speed.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAswBUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA8wBUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T08:33:12.912Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Calculate_Power.cs",
               "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Calculate_Power.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Calculate_Power.cs",
               "ToolTip": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Calculate_Power.cs",
               "RelativeToolTip": "Assets\\Scripts\\Calculate_Power.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBwAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBUAAAAPAQAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T06:47:36.883Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Input_Depth.cs",
               "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Input_Depth.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Input_Depth.cs",
@@ -147,46 +134,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Cogwheel.cs",
               "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Cog\\Cogwheel.cs",
               "RelativeDocumentMoniker": "Assets\\ChainGenerator\\Scripts\\Cog\\Cogwheel.cs",
               "ToolTip": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Cog\\Cogwheel.cs",
               "RelativeToolTip": "Assets\\ChainGenerator\\Scripts\\Cog\\Cogwheel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowBIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T07:54:32.619Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "GearData.cs",
               "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\DataModels\\GearData.cs",
               "RelativeDocumentMoniker": "Assets\\ChainGenerator\\Scripts\\DataModels\\GearData.cs",
               "ToolTip": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\DataModels\\GearData.cs",
               "RelativeToolTip": "Assets\\ChainGenerator\\Scripts\\DataModels\\GearData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-14T01:38:10.968Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Calculate_Area.cs",
               "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Calculate_Area.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Calculate_Area.cs",
               "ToolTip": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Calculate_Area.cs",
               "RelativeToolTip": "Assets\\Scripts\\Calculate_Area.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBAAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBUAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-15T05:24:53.748Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "CogMover.cs",
               "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Cog\\CogMover.cs",
               "RelativeDocumentMoniker": "Assets\\ChainGenerator\\Scripts\\Cog\\CogMover.cs",
@@ -194,11 +181,25 @@
               "RelativeToolTip": "Assets\\ChainGenerator\\Scripts\\Cog\\CogMover.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T08:24:05.207Z"
+              "WhenOpened": "2024-12-12T08:24:05.207Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
+              "Title": "Calculate_Stress.cs",
+              "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Calculate_Stress.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Calculate_Stress.cs",
+              "ToolTip": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Calculate_Stress.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Calculate_Stress.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T09:00:55.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Sort_Cogs.cs",
               "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Sort_Cogs.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Sort_Cogs.cs",
@@ -210,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Input_Max_stress.cs",
               "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\Scripts\\Input_Max_stress.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Input_Max_stress.cs",
@@ -218,12 +219,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Input_Max_stress.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T00:38:41.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-15T00:38:41.579Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "TeethGenerator.cs",
               "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Cog\\TeethGenerator.cs",
               "RelativeDocumentMoniker": "Assets\\ChainGenerator\\Scripts\\Cog\\TeethGenerator.cs",
