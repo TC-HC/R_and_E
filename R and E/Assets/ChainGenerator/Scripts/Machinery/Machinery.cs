@@ -26,7 +26,6 @@ namespace Chain
         private bool _isMoving = false;
         public bool movingAtStart = true;
 
-        
 
         private void OnEnable()
         {
@@ -98,20 +97,25 @@ namespace Chain
             _machineParts = GetComponentsInChildren<IMachinePart>();
             _movers = GetComponentsInChildren<Mover>();
 
-            var motionDirection =
-                isChainRelated ? chainGenerator.ChainData.motionDirection : ChainEnums.ChainDirection.None;
+            var motionDirection = isChainRelated ? chainGenerator.ChainData.motionDirection : ChainEnums.ChainDirection.None;
 
             for (var i = 0; i < _movers.Length; i++)
             {
                 var mover = _movers[i];
+
                 if (mover is ChainMover chainMover)
                 {
                     if (!isChainRelated) continue;
                     chainMover.Setup(chainGenerator.links, chainGenerator.cogAmount);
                 }
-
-                mover.MachinerySetup(machinerySpeed, gameObject.GetInstanceID(), _machineParts[i].GetMoverData(),
-                    motionDirection);
+                if (i % 2 == 0)
+                {
+                    mover.MachinerySetup(machinerySpeed, gameObject.GetInstanceID(), _machineParts[i].GetMoverData(), motionDirection);
+                }
+                else
+                {
+                    mover.MachinerySetup(-machinerySpeed, gameObject.GetInstanceID(), _machineParts[i].GetMoverData(), motionDirection);
+                }
             }
         }
 

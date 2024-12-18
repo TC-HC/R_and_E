@@ -27,9 +27,9 @@ namespace Chain
             StopCoroutine(nameof(SpinRoutine));
         }
 
-        public void MachinerySetup(float machinerySpeed, int machineryId, IMachinePartData machinePartData, ChainEnums.ChainDirection direction)
+        public void MachinerySetup(float machineryspeed, int machineryId, IMachinePartData machinePartData, ChainEnums.ChainDirection direction)
         {
-            MachinerySpeed = machinerySpeed;
+            MachinerySpeed = machineryspeed;
             MachineryId = machineryId;
             Data = machinePartData as GearData;
             MachineryDirection = direction;
