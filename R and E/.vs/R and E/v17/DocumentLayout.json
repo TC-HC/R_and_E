@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\machinery\\machinery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|c:\\users\\\uC740\uD638\\onedrive\\\uBB38\uC11C\\github\\r_and_e\\r and e\\assets\\chaingenerator\\scripts\\machinery\\machinery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|solutionrelative:assets\\chaingenerator\\scripts\\machinery\\machinery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|c:\\users\\\uC740\uD638\\onedrive\\\uBB38\uC11C\\github\\r_and_e\\r and e\\assets\\chaingenerator\\scripts\\cog\\cogmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\gear_manager\\calculate_stress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|solutionrelative:assets\\chaingenerator\\scripts\\gear_manager\\calculate_stress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\gear_manager\\is_broken_gear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|solutionrelative:assets\\chaingenerator\\scripts\\gear_manager\\is_broken_gear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\gear_manager\\calculate_area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|solutionrelative:assets\\chaingenerator\\scripts\\gear_manager\\calculate_area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\gear_manager\\input_angular_speed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|solutionrelative:assets\\chaingenerator\\scripts\\gear_manager\\input_angular_speed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\cog\\cogmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|solutionrelative:assets\\chaingenerator\\scripts\\cog\\cogmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\chain\\chaincreation\\mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|solutionrelative:assets\\chaingenerator\\scripts\\chain\\chaincreation\\mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\gear_manager\\sort_cogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|solutionrelative:assets\\chaingenerator\\scripts\\gear_manager\\sort_cogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\chain\\chaincreation\\chainmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|solutionrelative:assets\\chaingenerator\\scripts\\chain\\chaincreation\\chainmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Cog\\CogHolder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,14 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Cog\\Cogwheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|solutionrelative:Assets\\ChainGenerator\\Scripts\\Cog\\Cogwheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\gear_manager\\sort_cogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|solutionrelative:assets\\chaingenerator\\scripts\\gear_manager\\sort_cogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\gear_manager\\is_broken_gear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|solutionrelative:assets\\chaingenerator\\scripts\\gear_manager\\is_broken_gear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\DataModels\\GearData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,32 +63,12 @@
       "RelativeMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|solutionrelative:assets\\chaingenerator\\scripts\\gear_manager\\input_depth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\gear_manager\\input_angular_speed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|solutionrelative:assets\\chaingenerator\\scripts\\gear_manager\\input_angular_speed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\gear_manager\\calculate_stress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|solutionrelative:assets\\chaingenerator\\scripts\\gear_manager\\calculate_stress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\gear_manager\\calculate_power.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|solutionrelative:assets\\chaingenerator\\scripts\\gear_manager\\calculate_power.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\gear_manager\\calculate_area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|solutionrelative:assets\\chaingenerator\\scripts\\gear_manager\\calculate_area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\chain\\chaincreation\\chainmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|solutionrelative:assets\\chaingenerator\\scripts\\chain\\chaincreation\\chainmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\ingame\\statemachine\\alteredstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|solutionrelative:assets\\chaingenerator\\scripts\\ingame\\statemachine\\alteredstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\assets\\chaingenerator\\scripts\\chain\\chaincreation\\mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|solutionrelative:assets\\chaingenerator\\scripts\\chain\\chaincreation\\mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85C2CD43-2270-7AB1-F34A-9220BA06CB90}|Chain.csproj|C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Cog\\TeethGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -100,7 +100,7 @@
               "RelativeDocumentMoniker": "Assets\\ChainGenerator\\Scripts\\Machinery\\Machinery.cs",
               "ToolTip": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Machinery\\Machinery.cs",
               "RelativeToolTip": "Assets\\ChainGenerator\\Scripts\\Machinery\\Machinery.cs",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAnwHcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAswGAAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T06:37:48.856Z",
               "IsPinned": true,
@@ -108,20 +108,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 3,
               "Title": "Calculate_Area.cs",
               "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Gear_Manager\\Calculate_Area.cs",
               "RelativeDocumentMoniker": "Assets\\ChainGenerator\\Scripts\\Gear_Manager\\Calculate_Area.cs",
               "ToolTip": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Gear_Manager\\Calculate_Area.cs",
               "RelativeToolTip": "Assets\\ChainGenerator\\Scripts\\Gear_Manager\\Calculate_Area.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwA0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T07:01:22.315Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Calculate_Power.cs",
               "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Gear_Manager\\Calculate_Power.cs",
               "RelativeDocumentMoniker": "Assets\\ChainGenerator\\Scripts\\Gear_Manager\\Calculate_Power.cs",
@@ -134,33 +135,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
               "Title": "Calculate_Stress.cs",
               "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Gear_Manager\\Calculate_Stress.cs",
               "RelativeDocumentMoniker": "Assets\\ChainGenerator\\Scripts\\Gear_Manager\\Calculate_Stress.cs",
               "ToolTip": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Gear_Manager\\Calculate_Stress.cs",
               "RelativeToolTip": "Assets\\ChainGenerator\\Scripts\\Gear_Manager\\Calculate_Stress.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBUAAADYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T07:01:50.371Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "Input_angular_speed.cs",
               "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Gear_Manager\\Input_angular_speed.cs",
               "RelativeDocumentMoniker": "Assets\\ChainGenerator\\Scripts\\Gear_Manager\\Input_angular_speed.cs",
               "ToolTip": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Gear_Manager\\Input_angular_speed.cs",
               "RelativeToolTip": "Assets\\ChainGenerator\\Scripts\\Gear_Manager\\Input_angular_speed.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T07:02:00.337Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Input_Depth.cs",
               "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Gear_Manager\\Input_Depth.cs",
               "RelativeDocumentMoniker": "Assets\\ChainGenerator\\Scripts\\Gear_Manager\\Input_Depth.cs",
@@ -173,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "Input_extra_power.cs",
               "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Gear_Manager\\Input_extra_power.cs",
               "RelativeDocumentMoniker": "Assets\\ChainGenerator\\Scripts\\Gear_Manager\\Input_extra_power.cs",
@@ -186,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Input_Max_stress.cs",
               "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Gear_Manager\\Input_Max_stress.cs",
               "RelativeDocumentMoniker": "Assets\\ChainGenerator\\Scripts\\Gear_Manager\\Input_Max_stress.cs",
@@ -199,39 +202,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Is_Broken_Gear.cs",
               "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Gear_Manager\\Is_Broken_Gear.cs",
               "RelativeDocumentMoniker": "Assets\\ChainGenerator\\Scripts\\Gear_Manager\\Is_Broken_Gear.cs",
               "ToolTip": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Gear_Manager\\Is_Broken_Gear.cs",
               "RelativeToolTip": "Assets\\ChainGenerator\\Scripts\\Gear_Manager\\Is_Broken_Gear.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T07:02:16.935Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Sort_Cogs.cs",
               "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Gear_Manager\\Sort_Cogs.cs",
               "RelativeDocumentMoniker": "Assets\\ChainGenerator\\Scripts\\Gear_Manager\\Sort_Cogs.cs",
               "ToolTip": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Gear_Manager\\Sort_Cogs.cs",
               "RelativeToolTip": "Assets\\ChainGenerator\\Scripts\\Gear_Manager\\Sort_Cogs.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAwE8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T07:02:20.641Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "CogMover.cs",
               "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Cog\\CogMover.cs",
               "RelativeDocumentMoniker": "Assets\\ChainGenerator\\Scripts\\Cog\\CogMover.cs",
               "ToolTip": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Cog\\CogMover.cs",
               "RelativeToolTip": "Assets\\ChainGenerator\\Scripts\\Cog\\CogMover.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowB8AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T08:24:05.207Z",
               "IsPinned": true,
@@ -239,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "GearData.cs",
               "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\DataModels\\GearData.cs",
               "RelativeDocumentMoniker": "Assets\\ChainGenerator\\Scripts\\DataModels\\GearData.cs",
@@ -252,31 +257,34 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 6,
               "Title": "Mover.cs",
               "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Chain\\ChainCreation\\Mover.cs",
               "RelativeDocumentMoniker": "Assets\\ChainGenerator\\Scripts\\Chain\\ChainCreation\\Mover.cs",
               "ToolTip": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Chain\\ChainCreation\\Mover.cs",
               "RelativeToolTip": "Assets\\ChainGenerator\\Scripts\\Chain\\ChainCreation\\Mover.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T07:28:29.755Z"
+              "WhenOpened": "2024-12-17T07:28:29.755Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 8,
               "Title": "ChainMover.cs",
               "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Chain\\ChainCreation\\ChainMover.cs",
               "RelativeDocumentMoniker": "Assets\\ChainGenerator\\Scripts\\Chain\\ChainCreation\\ChainMover.cs",
               "ToolTip": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Chain\\ChainCreation\\ChainMover.cs",
               "RelativeToolTip": "Assets\\ChainGenerator\\Scripts\\Chain\\ChainCreation\\ChainMover.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAD4vzIAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAD4vzEAAABrAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T07:26:38.289Z"
+              "WhenOpened": "2024-12-17T07:26:38.289Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "AlteredState.cs",
               "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\InGame\\StateMachine\\AlteredState.cs",
               "RelativeDocumentMoniker": "Assets\\ChainGenerator\\Scripts\\InGame\\StateMachine\\AlteredState.cs",
@@ -288,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Cogwheel.cs",
               "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Cog\\Cogwheel.cs",
               "RelativeDocumentMoniker": "Assets\\ChainGenerator\\Scripts\\Cog\\Cogwheel.cs",
@@ -324,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "CogHolder.cs",
               "DocumentMoniker": "C:\\Users\\\uC740\uD638\\OneDrive\\\uBB38\uC11C\\GitHub\\R_and_E\\R and E\\Assets\\ChainGenerator\\Scripts\\Cog\\CogHolder.cs",
               "RelativeDocumentMoniker": "Assets\\ChainGenerator\\Scripts\\Cog\\CogHolder.cs",
@@ -332,7 +340,8 @@
               "RelativeToolTip": "Assets\\ChainGenerator\\Scripts\\Cog\\CogHolder.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAHYAAABmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T08:04:48.133Z"
+              "WhenOpened": "2024-12-10T08:04:48.133Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

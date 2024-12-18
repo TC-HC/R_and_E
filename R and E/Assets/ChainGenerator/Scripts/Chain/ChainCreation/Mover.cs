@@ -11,8 +11,7 @@
 
         public void StopMotion();
 
-        public void MachinerySetup(float machinerySpeed, int machineryId, IMachinePartData data,
-            ChainEnums.ChainDirection direction)
+        public void MachinerySetup(float machinerySpeed, int machineryId, IMachinePartData data, ChainEnums.ChainDirection direction)
         {
         }
     }

@@ -47,8 +47,7 @@ namespace Chain
             OngoingState = new OngoingState(this);
         }
 
-        public void MachinerySetup(float machinerySpeed, int machineryId, IMachinePartData machinePartData,
-            ChainEnums.ChainDirection direction)
+        public void MachinerySetup(float machinerySpeed, int machineryId, IMachinePartData machinePartData, ChainEnums.ChainDirection direction)
         {
             MachinerySpeed = machinerySpeed;
             MachineryId = machineryId;

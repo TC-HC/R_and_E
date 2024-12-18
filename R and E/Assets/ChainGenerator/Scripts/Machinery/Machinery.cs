@@ -96,6 +96,7 @@ namespace Chain
         {
             _machineParts = GetComponentsInChildren<IMachinePart>();
             _movers = GetComponentsInChildren<Mover>();
+            machinerySpeed = (float)Input_angular_speed.motor_angular_speed;
 
             var motionDirection = isChainRelated ? chainGenerator.ChainData.motionDirection : ChainEnums.ChainDirection.None;
 
